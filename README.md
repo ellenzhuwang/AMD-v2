@@ -1,5 +1,5 @@
 # AMD-v2 [OAEI 2022](http://disi.unitn.it/~pavel/om2022/papers/oaei22_paper3.pdf)
-AgreementMakerDeep (AMD) is a new flexible and extensible ontology matching system with PLM and KGE techniques. In OAEI 2022, we only apply zero-shot learning in [Bio-ML track](https://www.cs.ox.ac.uk/isg/projects/ConCur/oaei/index.html). AMD achieved competetive performance in terms of the evaluateion metrics used in the track without extra training.
+AgreementMakerDeep (AMD) is a new flexible and extensible ontology matching system with PLM and KGE techniques. In OAEI 2022, we only apply zero-shot learning in [Bio-ML track](https://www.cs.ox.ac.uk/isg/projects/ConCur/oaei/index.html). AMD achieved competetive performance in terms of the evaluateion metrics used in the track without extra training. We also upload our alignments results of all dataset in Bio-ML track for reference.
 
 
 # Genenral Instructions:
