@@ -1,0 +1,11 @@
+numpy
+owlready2
+tqdm
+six
+beautifulsoup4
+pandas
+torch
+langdetect
+sentence-transformers
+lxml
+
