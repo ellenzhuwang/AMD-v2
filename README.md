@@ -32,9 +32,9 @@ Note: This file is able to produce alignments without MELT package.
 
 For the whole AMD-seals, please refer to [AMD](https://github.com/ellenzhuwang/AgreementMakerDeep) for OAEI 2021.
 
-## Reference
+# Citation
 
-   If you find this repo useful, please consider citing:
+   If you find this repo useful and use our code for your work, please consider citing:
 ```
 @article{wangagreementmakerdeep,
   title={AgreementMakerDeep Results for OAEI2021},
