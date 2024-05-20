@@ -34,19 +34,23 @@ For the whole AMD-seals, please refer to [AMD](https://github.com/ellenzhuwang/A
 
 # Citation
 
-   If you find this repo useful and use our code for your work, please consider citing:
+   If you find this repo useful and use our code for your work, please consider citing and star this repo:
 ```
-@article{wangagreementmakerdeep,
-  title={AgreementMakerDeep Results for OAEI2021},
-  author={Wang, Zhu and Cruz, Isabel F}
+@inproceedings{wang2021agreementmakerdeep,
+  title={AgreementMakerDeep results for OAEI 2021.},
+  author={Wang, Zhu and Cruz, Isabel F},
+  booktitle={OM@ ISWC},
+  pages={124--130},
   year={2021}
 }
 ```
 and 
 ```
-@article{wang2022amd,
-  title={AMD Results for OAEI 2022},
+@inproceedings{wang2022amd,
+  title={AMD results for OAEI 2022.},
   author={Wang, Zhu},
+  booktitle={OM@ ISWC},
+  pages={145--152},
   year={2022}
 }
 ```
